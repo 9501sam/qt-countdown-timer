@@ -1,5 +1,4 @@
 A simple countdown timer built with C++ and the Qt6 framework, designed for "Two-Minute Rule" time management technique.
----
 ### Dependencies
 ```sh
 sudo apt update
